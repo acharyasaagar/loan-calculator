@@ -1,0 +1,11 @@
+FOUR TYPES OF Loan
+ - Personal Loan (500 - 5,000)
+ - Business Loan (5,000 - 50,000)
+ - Student Loan (500 - 3000 )
+ - Housing Loan (25,000 - 100,000)
+
+ Rates
+  - Personal 12% per annum
+  - Business 18% per annum
+  - Student 8% per annum
+  - Housing 15% per annum
